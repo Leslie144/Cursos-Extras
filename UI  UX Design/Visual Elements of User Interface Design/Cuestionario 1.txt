@@ -1,0 +1,22 @@
+The Relationship Between UI and UX
+INGLÉS:
+When a user visits a website, what do they encounter first?
+the form of the site
+
+Correct. The visual look of the site will be the first thing a user sees, before they jump into the content of the site.
+
+When a designer begins working on a website, what do they encounter first?
+the content of the site
+
+Correct. A designer will be given raw material (text, images, and other material) to style into a form. The most successful websites are “content-specific”, meaning the form is derived from the content, organized and presented in a way that makes sense for the user. We will be discussing content-specific design later in this course.
+
+ESPAÑOL:
+Cuando un usuario visita un sitio web, ¿qué encuentra primero?
+la forma del sitio
+
+Correcto. El aspecto visual del sitio será lo primero que vea un usuario, antes de saltar al contenido del sitio.
+
+Cuando un diseñador comienza a trabajar en un sitio web, ¿qué encuentra primero?
+el contenido del sitio
+
+Correcto. A un diseñador se le dará materia prima (texto, imágenes y otro material) para diseñar un formulario. Los sitios web más exitosos son de "contenido específico", lo que significa que la forma se deriva del contenido, se organiza y se presenta de una manera que tiene sentido para el usuario. Discutiremos el diseño de contenido específico más adelante en este curso.
