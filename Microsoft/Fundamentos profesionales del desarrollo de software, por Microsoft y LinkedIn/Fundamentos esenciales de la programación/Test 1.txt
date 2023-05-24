@@ -1,0 +1,17 @@
+﻿El _____ es el idioma con el que nos comunicamos con una máquina.
+
+lenguaje de programación
+
+
+﻿¿Cuál de las siguientes opciones no es una ventaja del pseudocódigo?
+
+Es dependiente del lenguaje de programación.
+
+﻿Los lenguajes de _____ nos sirven para definir y crear la presentación de un documento.
+
+estilo
+
+﻿¿Cuál de las siguientes opciones no corresponde a la clasificación de los lenguajes según su paradigma de programación?
+
+Compilados
+
