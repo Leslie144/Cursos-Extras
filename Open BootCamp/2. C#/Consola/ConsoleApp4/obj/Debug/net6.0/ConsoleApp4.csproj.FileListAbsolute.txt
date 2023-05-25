@@ -1,0 +1,15 @@
+G:\LESLIE\Portafolio\Cursos-Extras\Open BootCamp\2. C#\Consola\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.exe
+G:\LESLIE\Portafolio\Cursos-Extras\Open BootCamp\2. C#\Consola\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.deps.json
+G:\LESLIE\Portafolio\Cursos-Extras\Open BootCamp\2. C#\Consola\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.runtimeconfig.json
+G:\LESLIE\Portafolio\Cursos-Extras\Open BootCamp\2. C#\Consola\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.dll
+G:\LESLIE\Portafolio\Cursos-Extras\Open BootCamp\2. C#\Consola\ConsoleApp4\bin\Debug\net6.0\ref\ConsoleApp4.dll
+G:\LESLIE\Portafolio\Cursos-Extras\Open BootCamp\2. C#\Consola\ConsoleApp4\bin\Debug\net6.0\ConsoleApp4.pdb
+G:\LESLIE\Portafolio\Cursos-Extras\Open BootCamp\2. C#\Consola\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.AssemblyReference.cache
+G:\LESLIE\Portafolio\Cursos-Extras\Open BootCamp\2. C#\Consola\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+G:\LESLIE\Portafolio\Cursos-Extras\Open BootCamp\2. C#\Consola\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfoInputs.cache
+G:\LESLIE\Portafolio\Cursos-Extras\Open BootCamp\2. C#\Consola\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.AssemblyInfo.cs
+G:\LESLIE\Portafolio\Cursos-Extras\Open BootCamp\2. C#\Consola\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+G:\LESLIE\Portafolio\Cursos-Extras\Open BootCamp\2. C#\Consola\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.dll
+G:\LESLIE\Portafolio\Cursos-Extras\Open BootCamp\2. C#\Consola\ConsoleApp4\obj\Debug\net6.0\ref\ConsoleApp4.dll
+G:\LESLIE\Portafolio\Cursos-Extras\Open BootCamp\2. C#\Consola\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.pdb
+G:\LESLIE\Portafolio\Cursos-Extras\Open BootCamp\2. C#\Consola\ConsoleApp4\obj\Debug\net6.0\ConsoleApp4.genruntimeconfig.cache

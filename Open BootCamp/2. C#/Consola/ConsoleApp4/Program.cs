@@ -1,15 +1,15 @@
 ﻿// See https://aka.ms/new-console-template for more information
-// Solicitar datos de la persona
+int numero = 20;        // Número para verificar
+char caracter = 'a';    // Carácter para verificar
 
-//Ejercicio 2:
-// Coche
-int puertas = 4;            // Número de puertas (entero)
-int ruedas = 4;             // Número de ruedas (entero)
-string marca = "Toyota";    // Marca del coche (cadena de texto)
-bool itvVigente = true;     // ITV vigente (booleano)
+// Un número es mayor o igual a 18
+bool esMayorOIgualA18 = numero >= 18;
 
-// Mesa
-double peso = 10.5;         // Peso de la mesa (decimal)
-double largo = 150.0;       // Largo de la mesa en cm (decimal)
-string material = "Madera"; // Material de la mesa (cadena de texto)
-string color = "Negro";     // Color de la mesa (cadena de texto)
+// Un char es 'a'
+bool esCaracterA = caracter == 'a';
+
+// Se cumplen dos condiciones a la vez (ambas verdaderas)
+bool ambasCondiciones = (numero > 10) && (caracter != 'b');
+
+// Se cumple una de dos condiciones a la vez (una true y otra false)
+bool unaDeDosCondiciones = (numero == 20) || (caracter == 'b');
